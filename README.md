@@ -1,1 +1,1 @@
-# this is my jupyter notebook repository
+#Jupyter notebook repository
